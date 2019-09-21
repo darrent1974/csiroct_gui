@@ -1,0 +1,15 @@
+Package: csiroctGui
+Title: CSIROCT GUI
+Version: 0.0.1
+Authors @R: as.person(c(Darren Thompson <darren.thompson@csiro.au>))
+Description: CSIROCT GUI
+Depends: R (>= 3.0.2)
+Imports: 
+Suggests: 
+License: MIT + file LICENSE
+URL: https://github.com/darrent1974/csiroct-gui
+BugReports: https://github.com/darrent1974/csiroct-gui/issues
+Encoding: UTF-8
+LazyData: true
+Author: Darren Thompson [aut]
+Maintainer: Darren Thompson <darren.thompson@csiro.au>

@@ -1,0 +1,7 @@
+include csiroct_gui/csiroct_gui.min.js
+include csiroct_gui/csiroct_gui.min.js.map
+include csiroct_gui/metadata.json
+include csiroct_gui/package-info.json
+include README.md
+include LICENSE
+include package.json
